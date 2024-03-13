@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Shohijahon",
+        "gender": "male",
+        "age": 19,
+        "userId": 1
+    },
+    {
+        "name": "Abror",
+        "gender": "male",
+        "age": 20,
+        "userId": 2
+    },
+    {
+        "name": "Sardor",
+        "gender": "male",
+        "age": 19,
+        "userId": 3
+    },
+    {
+        "name": "Female",
+        "gender": "female",
+        "age": 18,
+        "userId": 4
+    },
+    {
+        "name": "Elyor",
+        "gender": "male",
+        "age": 21,
+        "userId": 5
+    }
+]
